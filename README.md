@@ -1,6 +1,6 @@
 # betahealth
-Great repository names are short and memorable. Need inspiration? How about betahealth?
-!(hotbar.PNG)
+Great repository names are short and memorable. Need inspiration? How about betahealth?<br>
+![](hotbar.PNG)
 
 ## what it doez
 * removes hunger bar
