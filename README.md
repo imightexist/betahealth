@@ -8,6 +8,7 @@ Great repository names are short and memorable. Need inspiration? How about beta
 ## what it dont do!!
 * it cant make food unstackable
 * eating animation still exist
+* golden apples dont give 10 hears
 ## versions
 * Bukkit 1.16.5
 * Bukkit 1.19.4 (smp with it coming soonz??)
