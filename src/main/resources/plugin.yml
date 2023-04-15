@@ -1,0 +1,11 @@
+name: betahealth
+version: 1.0
+main: io.papermc.betahealth.betahealth
+commands:
+permissions:
+  betahealth.admin:
+    description: Commands limited to op
+    default: op
+  betahealth.standard:
+    description: Commands for basic users
+    default: true
