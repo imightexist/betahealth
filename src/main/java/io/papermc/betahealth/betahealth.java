@@ -88,7 +88,7 @@ public class betahealth extends JavaPlugin implements Listener, CommandExecutor 
                 
                 //p.setHealthScale(10);
             }*/
-            h.setHealth(Math.min(20,h.getHealth() + (e.getFoodLevel() - 6)/2));
+            h.setHealth(Math.min(20,h.getHealth() + (e.getFoodLevel() - 6)));
             //p.sendMessage(String.valueOf(h.getHealth()));
         }
         e.setFoodLevel(6);
