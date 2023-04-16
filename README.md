@@ -18,6 +18,7 @@ Great repository names are short and memorable. Need inspiration? How about beta
 * fix respawn resetting hunger
 * allow sprinting to be enabled
 * (maybe) removing eating animation
+* golden apples & notch apples give 10 hearts
 ## versions
 * Bukkit 1.16.5
 * Bukkit 1.19.4 (smp with it coming soonz??)
