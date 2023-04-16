@@ -1,7 +1,19 @@
 name: betahealth
-version: 1.0
+version: 19.4.2
+description: health from beta 1.7.3 and below
+website: https://github.com/imightexist/betahealth
 main: io.papermc.betahealth.betahealth
 commands:
+  sprinting:
+    description: always allows sprinting despite health, healthy allows sprinting if above 3 hearts, off disables sprinting
+    usage: /sprinting <always|healthy|off>
+    permission-message: god damn it this stupid bitch really thought he can change the plugin
+    permission: betahealth.admin
+  chewing:
+    description: enables/disables eating animation
+    usage: /chewing <true/false>
+    permission-message: god damn it this stupid bitch really thought he can change the plugin
+    permission: betahealth.admin
 permissions:
   betahealth.admin:
     description: Commands limited to op
