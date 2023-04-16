@@ -23,6 +23,7 @@ Great repository names are short and memorable. Need inspiration? How about beta
 * (maybe) unstackable food
 * fix chewing command
 * allow sprinting to be enabled
+* potions!!
 ## versions
 * Bukkit 1.16.5 (not tested, i just change the dependency version lolz)
 * Bukkit 1.19.4 (smp with it coming soonz??)
