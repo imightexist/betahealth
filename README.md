@@ -21,6 +21,7 @@ Great repository names are short and memorable. Need inspiration? How about beta
 * golden apples have no effects
 ### update 3 (i didnt want to fuck up update 2 so i moved it get rekt!!!)
 * (maybe) unstackable food
+* fix chewing command
 * allow sprinting to be enabled
 ## versions
 * Bukkit 1.16.5 (not tested, i just change the dependency version lolz)
