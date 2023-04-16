@@ -14,7 +14,7 @@ Great repository names are short and memorable. Need inspiration? How about beta
 ## update log
 ### update 1
 * fixed food not giving right amount of health
-### update 2 (cum soon)
+### update 2
 * fix respawn resetting hunger
 * removing eating animation
 * golden apples & notch apples give 10 hearts
