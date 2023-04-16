@@ -23,5 +23,5 @@ Great repository names are short and memorable. Need inspiration? How about beta
 * (maybe) unstackable food
 * allow sprinting to be enabled
 ## versions
-* Bukkit 1.16.5
+* Bukkit 1.16.5 (not tested, i just change the dependency version lolz)
 * Bukkit 1.19.4 (smp with it coming soonz??)
