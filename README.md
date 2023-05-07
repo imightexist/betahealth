@@ -2,6 +2,7 @@
 Great repository names are short and memorable. Need inspiration? How about betahealth?<br>
 ![](hotbar.PNG)
 
+do not use update 2, use update 1!!!!
 ## what it doez
 * removes hunger bar
 * no like actually removes the icon
