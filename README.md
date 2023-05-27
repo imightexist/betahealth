@@ -1,4 +1,4 @@
-# do not use update 2, use update 1!!!! | betahealth
+# betahealth
 Great repository names are short and memorable. Need inspiration? How about betahealth?<br>
 ![](hotbar.PNG)
 ## what it doez
